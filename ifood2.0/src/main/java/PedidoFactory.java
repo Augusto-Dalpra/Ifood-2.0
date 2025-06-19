@@ -1,0 +1,3 @@
+interface PedidoFactory {
+    Pedido criarPedido();
+}
